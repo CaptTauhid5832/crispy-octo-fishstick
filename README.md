@@ -6,7 +6,6 @@ A clean iOS recipe app built with **SwiftUI**. Browse a collection of recipes, s
 
 <p align="center">
   <img src="main.png" alt="My Recipes screenshot" width="320">
-  ![Chocolate Lava](Chocolate%20Lava.png)
 </p>
 
 ---
